@@ -31,4 +31,16 @@ img {
   text-align: center;
   font-size: 40px;
 }
+
+.container {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+}
+
+button {
+  margin-right: 20px;
+}
 /*# sourceMappingURL=01-color-switcher.101ee4ef.css.map */
